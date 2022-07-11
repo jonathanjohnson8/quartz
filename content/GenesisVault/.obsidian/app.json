@@ -3,5 +3,6 @@
   "livePreview": true,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
-  "newFileLocation": "root"
+  "newFileLocation": "root",
+  "promptDelete": false
 }

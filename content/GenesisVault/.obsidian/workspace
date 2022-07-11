@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "QuantumComputation/FeynmanLecturesonComputation/Untitled.md",
+            "file": "Experiments/Scary_Hours/Untitled.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "QuantumComputation/FeynmanLecturesonComputation/Untitled.md",
+            "file": "Experiments/Scary_Hours/Untitled.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QuantumComputation/FeynmanLecturesonComputation/Untitled.md",
+                "file": "Experiments/Scary_Hours/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +127,8 @@
   },
   "active": "e480ab4468c98770",
   "lastOpenFiles": [
+    "Experiments/Scary_Hours/Untitled.md",
+    "Philosophy/the_infinite_game.md",
     "QuantumComputation/FeynmanLecturesonComputation/Untitled.md",
     "FeynmanLecturesonComputation/QuantumComputation/Untitled.md"
   ]
